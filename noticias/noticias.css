@@ -1,0 +1,19 @@
+.noticia {
+    background-color: #fff;
+    border-left: 4px solid #004aad;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  }
+  
+  .noticia h2 {
+    color: #004aad;
+    margin-bottom: 0.3rem;
+  }
+  
+  .noticia small {
+    color: gray;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  

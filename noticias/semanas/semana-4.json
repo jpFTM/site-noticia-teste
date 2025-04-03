@@ -1,0 +1,15 @@
+{
+    "noticias": [
+      {
+        "titulo": "Campanha de Vacinação",
+        "data": "2025-04-01",
+        "conteudo": "Iniciamos a campanha de vacinação contra a gripe para todos os funcionários. Dirija-se à enfermaria até sexta-feira."
+      },
+      {
+        "titulo": "Aniversariantes da Semana",
+        "data": "2025-03-31",
+        "conteudo": "Parabéns aos colaboradores que fazem aniversário esta semana! Confira a lista no mural da sala de descanso."
+      }
+    ]
+  }
+  
