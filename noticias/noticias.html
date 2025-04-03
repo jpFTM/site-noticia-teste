@@ -9,49 +9,46 @@
 </head>
 <body>
 
-  <div class="wrapper">
-    <header>
-      <div class="container header-content">
-        <img src="../assets/logodoce.png" alt="Logo da Empresa" class="logo" />
-        <nav>
-          <ul class="menu">
-            <li><a href="../index.html">Início</a></li>
-            <li><a href="noticias.html" class="active">Notícias</a></li>
-            <li><a href="../requerimentos/requerimentos.html">Requerimentos</a></li>
-            <li><a href="../ajuda/ajuda.html">Central de Ajuda</a></li>
-            <li><a href="../contatos/contatos.html">Contatos</a></li>
-          </ul>
-          <button id="menu-toggle">☰</button>
-        </nav>
-      </div>
-    </header>
+  <header>
+    <div class="container header-content">
+      <img src="../assets/logodoce.png" alt="Logo da Empresa" class="logo" />
+      <nav>
+        <ul class="menu">
+          <li><a href="../index.html">Início</a></li>
+          <li><a href="noticias.html" class="active">Notícias</a></li>
+          <li><a href="../requerimentos/requerimentos.html">Requerimentos</a></li>
+          <li><a href="../ajuda/ajuda.html">Central de Ajuda</a></li>
+          <li><a href="../contatos/contatos.html">Contatos</a></li>
+        </ul>
+        <button id="menu-toggle">☰</button>
+      </nav>
+    </div>
+  </header>
 
-    <main>
-      <section class="section">
-        <div class="container">
-          <h1>Notícias Internas</h1>
-
-          <label for="semana-select">Selecione a semana:</label>
-          <select id="semana-select">
-            <option value="semana-4.json">30 Mar – 05 Abr</option>
-            <option value="semana-3.json">23 Mar – 29 Mar</option>
-            <option value="semana-2.json">16 Mar – 22 Mar</option>
-            <option value="semana-1.json">09 Mar – 15 Mar</option>
-          </select>
-
-          <div id="noticias-container"></div>
-        </div>
-      </section>
-    </main>
-
-    <footer>
+  <main>
+    <section class="section">
       <div class="container">
-        <p>&copy; 2025 Portal Interno - Alimentos Triângulo. Todos os direitos reservados.</p>
-      </div>
-    </footer>
-  </div>
+        <h1>Notícias Internas</h1>
 
-  <script src="../js/index.js"></script>
+        <label for="semana-select">Selecione a semana:</label>
+        <select id="semana-select">
+          <option value="semana-4.json">30 Mar – 05 Abr</option>
+          <option value="semana-3.json">23 Mar – 29 Mar</option>
+          <option value="semana-2.json">16 Mar – 22 Mar</option>
+          <option value="semana-1.json">09 Mar – 15 Mar</option>
+        </select>
+
+        <div id="noticias-container"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Portal Interno - Alimentos Triângulo. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
   <script src="noticias.js"></script>
 </body>
 </html>
