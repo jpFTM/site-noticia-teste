@@ -31,3 +31,6 @@ select.addEventListener("change", () => {
 
 // Carrega a semana inicial (a primeira)
 carregarNoticias(select.value);
+
+const toggleButton = document.getElementById('menu-toggle');
+const menu = document.querySelector('nav ul.menu');
