@@ -30,7 +30,7 @@
 .ramal-card {
   background-color: #ffffff;
   border-left: 4px solid #004aad;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   padding: 1rem;
   width: 100%;
   max-width: 250px;
@@ -64,14 +64,13 @@
   text-decoration: underline;
 }
 
-
 #detalhes-setor {
   margin-top: 2rem;
   background-color: #f9f9f9;
   padding: 1.5rem;
   border-left: 4px solid #ccc;
   border-radius: 5px;
-  box-shadow: 0 0 6px rgba(0,0,0,0.03);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.03);
 }
 
 #detalhes-setor h2 {
@@ -87,3 +86,45 @@
   padding-bottom: 0.3rem;
 }
 
+#search-input {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  font-size: 1rem;
+  border: 2px solid #004aad;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  color: #333;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+
+#search-input:focus {
+  outline: none;
+  border-color: #003b8c;
+  background-color: #ffffff;
+}
+
+#search-input::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+#show-all {
+  background-color: #004aad;
+  color: white;
+  font-size: 1rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#show-all:hover {
+  background-color: #003b8c;
+}
+
+#show-all:focus {
+  outline: none;
+}
