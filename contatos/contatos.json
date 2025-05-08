@@ -1,0 +1,1008 @@
+{
+  "Diretoria": {
+    "Presidência": [
+      {
+        "nome": "Sr. Marcos Antônio",
+        "ramal": "3204",
+        "email": "marcos@docemineiro.ind.br",
+        "celular": "(34) 9 9962-1535"
+      }
+    ],
+    "Financeira": [
+      {
+        "nome": "Sra. D. Cida",
+        "ramal": "",
+        "email": "diretoria@docemineiro.ind.br",
+        "celular": "(34) 9 9974-0045 / 3266-1515"
+      }
+    ],
+    "Superintendência": [
+      {
+        "nome": "Sr. Ricardo Figueira",
+        "ramal": "3228",
+        "email": "ricardo@docemineiro.ind.br",
+        "celular": "(34) 9 9962-1032 / 9 9885-8900"
+      }
+    ],
+    "Comercial": [
+      {
+        "nome": "Pedro Henrique",
+        "ramal": "3234",
+        "email": "pedrohenrique@docemineiro.ind.br",
+        "celular": "(34) 9 9962-2797"
+      }
+    ]
+  },
+  "Administrativo": {
+    "Gerência": [
+      {
+        "nome": "Edmilson Aureliano",
+        "ramal": "3225",
+        "email": "administrador@docemineiro.ind.br",
+        "celular": "(34) 9 9691-4714"
+      }
+    ],
+    "Coordenação": [
+      {
+        "nome": "Alexandre Silva",
+        "ramal": "3218",
+        "email": "supervisoradministrativo@docemineiro.ind.br",
+        "celular": "(34) 9 9977-1701"
+      }
+    ],
+    "Controladoria": [
+      {
+        "nome": "Rercion Medeiros",
+        "ramal": "3240",
+        "email": "controladoria02@docemineiro.ind.br",
+        "celular": "(34) 9 9690-5085"
+      },
+      {
+        "nome": "Getulio Marques",
+        "ramal": "3317",
+        "email": "controladoria03@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Renato Santos",
+        "ramal": "3314",
+        "email": "controladoria04@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Almoxarifado": {
+    "Supervisão": [
+      {
+        "nome": "Willys Botelho",
+        "ramal": "3284",
+        "email": "supervisordealmoxarifado@docemineiro.ind.br",
+        "celular": "(34) 9 9679-5599"
+      }
+    ],
+    "Geral": [
+      {
+        "nome": "Gustavo/Pedro Jr",
+        "ramal": "3208",
+        "email": "almoxarife01@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Marconi Barros",
+        "ramal": "3286",
+        "email": "almoxarife02@docemineiro.ind.br",
+        "celular": "(34) 9 9962-2017 / 9 9972-7857"
+      },
+      {
+        "nome": "Priscilla Araujo",
+        "ramal": "3285",
+        "email": "almoxarife03@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Cabine": {
+    "Fiscalização": [
+      {
+        "nome": "Fiscal Matheus Tiburcio",
+        "ramal": "3207",
+        "email": "cabinefiscal@docemineiro.ind.br",
+        "celular": "(34) 9 9636-4969"
+      }
+    ]
+  },
+  "Balança": {
+    "Operação": [
+      {
+        "nome": "Silvano/Alvaro/Maurício",
+        "ramal": "3218",
+        "email": "balanca@docemineiro.ind.br",
+        "celular": "(34) 9 9865-7836"
+      }
+    ]
+  },
+  "Compras": {
+    "Suprimentos - Coordenação": [
+      {
+        "nome": "Ricardo Domingos",
+        "ramal": "3263",
+        "email": "coordenadordesuprimentos@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8801"
+      }
+    ],
+    "Suprimentos - Supervisão": [
+      {
+        "nome": "Marcelo Silva",
+        "ramal": "3233",
+        "email": "supervisordecompras@docemineiro.ind.br",
+        "celular": "(34) 9 9762-0647"
+      }
+    ],
+    "Geral": [
+      {
+        "nome": "Ricardo Oliveira",
+        "ramal": "3219",
+        "email": "compras02@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Contabilidade": {
+    "Gerência": [
+      {
+        "nome": "Eduardo Faleiros",
+        "ramal": "3271",
+        "email": "gerenciacontabil@docemineiro.ind.br",
+        "celular": "(34) 9 9641-6600"
+      }
+    ],
+    "Equipe Técnica": [
+      {
+        "nome": "Fatima Medeiros",
+        "ramal": "3237",
+        "email": "contabil01@docemineiro.ind.br",
+        "celular": "(34) 9 9968-2668"
+      },
+      {
+        "nome": "Eunice Rezende",
+        "ramal": "3273",
+        "email": "contabil03@docemineiro.ind.br",
+        "celular": "(34) 9 9965-6395"
+      },
+      {
+        "nome": "Agenor Rodrigues",
+        "ramal": "3277",
+        "email": "contabil06@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Laise Santana",
+        "ramal": "3309",
+        "email": "contabil07@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Edson Medeiros",
+        "ramal": "3278",
+        "email": "contabil08@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Copa": {
+    "Serviços Gerais": [
+      {
+        "nome": "Ana Lucia",
+        "ramal": "3307",
+        "email": "",
+        "celular": ""
+      }
+    ]
+  },
+  "Expedição": {
+    "Geral": [
+      {
+        "nome": "Marcos Aurélio",
+        "ramal": "3226",
+        "email": "expedicao02@docemineiro.ind.br",
+        "celular": "(34) 9 9866-4162"
+      },
+      {
+        "nome": "Allas dos Reis",
+        "ramal": "3226",
+        "email": "expedicao03@docemineiro.ind.br",
+        "celular": "(34) 9 9992-7310"
+      }
+    ],
+    "Produto Acabado": [
+      {
+        "nome": "José Eduardo",
+        "ramal": "3293",
+        "email": "assistenteadministrativo03@docemineiro.ind.br",
+        "celular": "(34) 9 9962-6690"
+      }
+    ]
+  },
+  "Financeiro": {
+    "Contas a Pagar e a Receber": [
+      {
+        "nome": "Jhenifer Carvalho",
+        "ramal": "",
+        "email": "financeiro@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      },
+      {
+        "nome": "Marya Eduarda",
+        "ramal": "",
+        "email": "cobranca@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      }
+    ],
+    "Auxiliar": [
+      {
+        "nome": "Noemia Martins",
+        "ramal": "",
+        "email": "contasapagar@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      },
+      {
+        "nome": "Jeniffer Beluci",
+        "ramal": "",
+        "email": "auxiliarfinanceiro@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      },
+      {
+        "nome": "Maria Caroline",
+        "ramal": "",
+        "email": "auxiliardecobranca@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      },
+      {
+        "nome": "Leticia Rodrigues",
+        "ramal": "",
+        "email": "auxiliarfinanceiro02@docemineiro.ind.br",
+        "celular": "(34) 9 9885-8802 / 3266-1515"
+      }
+    ]
+  },
+  "Faturamento": {
+    "Equipe": [
+      {
+        "nome": "Victor Hugo",
+        "ramal": "3210",
+        "email": "acerto@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Rayssa Mendonça / Jhennyfer F.",
+        "ramal": "3222",
+        "email": "faturamento01@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Amanda Borges",
+        "ramal": "3222",
+        "email": "faturamento02@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Eliana Silva",
+        "ramal": "3283",
+        "email": "cadastro@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Maria Fernanda",
+        "ramal": "3321",
+        "email": "fretesapagar@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Logística": {
+    "Supervisão": [
+      {
+        "nome": "Ralison Pereira",
+        "ramal": "3235",
+        "email": "logistica@docemineiro.ind.br",
+        "celular": "(34) 9 9893-8000"
+      }
+    ],
+    "Equipe": [
+      {
+        "nome": "Edina Peres",
+        "ramal": "3209",
+        "email": "pedidos02@docemineiro.ind.br",
+        "celular": "(34) 9 9777-3283"
+      },
+      {
+        "nome": "Sabrina Lima",
+        "ramal": "3264",
+        "email": "agendamento@docemineiro.ind.br",
+        "celular": "(34) 9 9777-4998"
+      },
+      {
+        "nome": "Bruno Silva",
+        "ramal": "3313",
+        "email": "pedidos@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Marcos Paulo",
+        "ramal": "3243",
+        "email": "logistica01@docemineiro.ind.br",
+        "celular": "(34) 9 9670-3274"
+      },
+      {
+        "nome": "Márcio Oliveira",
+        "ramal": "3318",
+        "email": "faturamento03@docemineiro.ind.br",
+        "celular": "(34) 9 9864-4071"
+      },
+      {
+        "nome": "Igo Gouveia",
+        "ramal": "3236",
+        "email": "logistica02@docemineiro.ind.br",
+        "celular": "(34) 9 9681-2626"
+      },
+      {
+        "nome": "Andressa Silva",
+        "ramal": "3223",
+        "email": "monitoramento@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Indústria": {
+    "Gerência": [
+      {
+        "nome": "Produção Patrick Fabiano",
+        "ramal": "3301",
+        "email": "gerenciaproducao@docemineiro.ind.br",
+        "celular": "(34) 9 9965-2127"
+      }
+    ],
+    "Coordenação": [
+      {
+        "nome": "Daniel Morais",
+        "ramal": "3269",
+        "email": "coordenadordeproducao@docemineiro.ind.br",
+        "celular": "(34) 9 9639-0202"
+      }
+    ],
+    "PCP": [
+      {
+        "nome": "Victor Silva",
+        "ramal": "3319",
+        "email": "producao01@docemineiro.ind.br",
+        "celular": "(34) 9 9968-7343"
+      }
+    ],
+    "Supervisão": [
+      {
+        "nome": "Teomar de Paula",
+        "ramal": "3269",
+        "email": "producao03@docemineiro.ind.br",
+        "celular": "(34) 9 9637-0101 / 9 9962-1418"
+      },
+      {
+        "nome": "Emanuel Quirino",
+        "ramal": "3269",
+        "email": "producao05@docemineiro.ind.br",
+        "celular": "(34) 9 9637-0101"
+      },
+      {
+        "nome": "Wandrey Bento",
+        "ramal": "3269",
+        "email": "producao06@docemineiro.ind.br",
+        "celular": "(34) 9 9637-0101"
+      }
+    ],
+    "Apontamento": [
+      {
+        "nome": "Viviane Alves",
+        "ramal": "3319",
+        "email": "apontador@docemineiro.ind.br",
+        "celular": "(34) 9 9965-6532"
+      }
+    ],
+    "Concentrador 2": [
+      {
+        "nome": "Concentrador 2",
+        "ramal": "3294",
+        "email": "",
+        "celular": ""
+      }
+    ],
+    "Concentrador 3": [
+      {
+        "nome": "Concentrador 3",
+        "ramal": "3282",
+        "email": "",
+        "celular": ""
+      }
+    ]
+  },
+  "Jurídico": {
+    "Gerência": [
+      {
+        "nome": "Diego Araújo",
+        "ramal": "3274",
+        "email": "gerentejuridico@docemineiro.ind.br",
+        "celular": "(34) 9 9775-6590"
+      }
+    ],
+    "Equipe": [
+      {
+        "nome": "Alexandre Pereira",
+        "ramal": "3262",
+        "email": "juridico01@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Marketing": {
+    "Departamento": [
+      {
+        "nome": "Ariel Santos",
+        "ramal": "3220",
+        "email": "marketing@docemineiro.ind.br",
+        "celular": "(34) 9 9974-8117"
+      },
+      {
+        "nome": "Laura Figueira Rezende",
+        "ramal": "",
+        "email": "marketing@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Manutenção": {
+    "Supervisão - TetraPak": [
+      {
+        "nome": "Paulo Sérgio",
+        "ramal": "3276",
+        "email": "coordenadordemanutencao@docemineiro.ind.br",
+        "celular": "(34) 9 9968-9807"
+      }
+    ],
+    "PCM": [
+      {
+        "nome": "José Aleixo",
+        "ramal": "3288",
+        "email": "liderdepcm@docemineiro.ind.br",
+        "celular": "(34) 9 9791-7968"
+      }
+    ],
+    "TetraPak - PCM": [
+      {
+        "nome": "Onofre de Assis",
+        "ramal": "3205",
+        "email": "pcm_tetrapak@docemineiro.ind.br",
+        "celular": "(34) 9 9976-6898"
+      },
+      {
+        "nome": "Guilherme Faria",
+        "ramal": "3268",
+        "email": "liderdemanutencaocartonado@docemineiro.ind.br",
+        "celular": "(34) 9 9963-5370"
+      },
+      {
+        "nome": "Tulio Ramalho",
+        "ramal": "3281",
+        "email": "auxiliarpcm@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Diego Garcês",
+        "ramal": "3268",
+        "email": "auxiliarpcm02@docemineiro.ind.br",
+        "celular": "(34) 9 9963-5370"
+      },
+      {
+        "nome": "Clayton Gualberto",
+        "ramal": "3281",
+        "email": "liderdemanutencaoeletrica@docemineiro.ind.br",
+        "celular": "(34) 9 9886-6727"
+      },
+      {
+        "nome": "Syrllan Jaks",
+        "ramal": "3270",
+        "email": "liderdemanutencaomecanica@docemineiro.ind.br",
+        "celular": "(34) 9 9965-2047"
+      }
+    ],
+    "TetraPak": [
+      {
+        "nome": "Marcelo do Carmo",
+        "ramal": "3270",
+        "email": "manutencaotetrapak01@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Rychardson de Araujo",
+        "ramal": "3270",
+        "email": "manutencaotetrapak03@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Ademir",
+        "ramal": "3270",
+        "email": "manutencaotetrapak04@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Valter Salome",
+        "ramal": "3270",
+        "email": "manutencaotetrapak05@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Lazaro Antonio",
+        "ramal": "3270",
+        "email": "manutencaotetrapak07@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Bruno Ferreira",
+        "ramal": "3270",
+        "email": "manutencaotetrapak08@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Wanderson Aparecido",
+        "ramal": "3270",
+        "email": "manutencaotetrapak09@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Oficina": {
+    "Caldeira": [
+      {
+        "nome": "Celio José",
+        "ramal": "3267",
+        "email": "",
+        "celular": ""
+      }
+    ],
+    "Empilhadeiras": [
+      {
+        "nome": "Ricardo",
+        "ramal": "",
+        "email": "",
+        "celular": "(34) 9 9862-8930"
+      }
+    ]
+  },
+  "Plataforma": {
+    "Supervisão": [
+      {
+        "nome": "Marcelo Miranda",
+        "ramal": "3230",
+        "email": "plataforma@docemineiro.ind.br",
+        "celular": "(34) 9 9992-6162"
+      }
+    ],
+    "Equipe": [
+      {
+        "nome": "Aparecida Lopes",
+        "ramal": "3230",
+        "email": "plataforma01@docemineiro.ind.br",
+        "celular": "(34) 9 9978-2645"
+      }
+    ]
+  },
+  "Política Leiteira": {
+    "Equipe": [
+      {
+        "nome": "Frederico Matos",
+        "ramal": "3265",
+        "email": "comprasleite03@docemineiro.ind.br",
+        "celular": "(34) 9 9993-5554"
+      },
+      {
+        "nome": "Aurélio Neto",
+        "ramal": "3239",
+        "email": "transportadorleite@docemineiro.ind.br",
+        "celular": "(34) 9 9668-6104"
+      },
+      {
+        "nome": "Elenice Carvalho",
+        "ramal": "3322",
+        "email": "atendenteprodutor@docemineiro.ind.br",
+        "celular": "(34) 9 9777-8343"
+      },
+      {
+        "nome": "Karen Apolinário",
+        "ramal": "3247",
+        "email": "financeiroleite@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Taiane Souza",
+        "ramal": "3247",
+        "email": "controleleite@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Portaria": {
+    "Equipe": [
+      {
+        "nome": "Mariana Ribeiro",
+        "ramal": "3289 / 3207",
+        "email": "atendimento02@docemineiro.ind.br",
+        "celular": "(34) 9 9632-9000"
+      }
+    ]
+  },
+  "Qualidade": {
+    "Supervisão": [
+      {
+        "nome": "Tadeu Tamarozzi",
+        "ramal": "3275",
+        "email": "qualidade@docemineiro.ind.br",
+        "celular": "(34) 9 9793-4142"
+      }
+    ],
+    "Certificação": [
+      {
+        "nome": "Elisangela Garcia",
+        "ramal": "3231",
+        "email": "certificacao@docemineiro.ind.br",
+        "celular": "(34) 9 9638-0202"
+      },
+      {
+        "nome": "Sâmia Martins",
+        "ramal": "3231",
+        "email": "certificacao02@docemineiro.ind.br",
+        "celular": ""
+      }
+    ],
+    "Geral": [
+      {
+        "nome": "Kelli Gonçalves",
+        "ramal": "3231",
+        "email": "qualidade01@docemineiro.ind.br",
+        "celular": ""
+      }
+    ],
+    "Laboratório": [
+      {
+        "nome": "Karen Apolinário",
+        "ramal": "3224",
+        "email": "laboratorio@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Recepção": {
+    "Atendimento": [
+      {
+        "nome": "Lavinya Fracasso",
+        "ramal": "3200 / 3280",
+        "email": "atendimento@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Refeitório": {
+    "Equipe": [
+      {
+        "nome": "Adrielli Alves",
+        "ramal": "3244",
+        "email": "refeitorio@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Cristiane de Paula",
+        "ramal": "3244",
+        "email": "refeitorio02@docemineiro.ind.br",
+        "celular": "(34) 9 9962-0199"
+      }
+    ]
+  },
+  "RH": {
+    "Departamento Pessoal": [
+      {
+        "nome": "Laylla Siqueira",
+        "ramal": "3206",
+        "email": "dp_pessoal@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Angélica Moura",
+        "ramal": "3287",
+        "email": "dp_pessoal02@docemineiro.ind.br",
+        "celular": ""
+      }
+    ],
+    "Segurança do Trabalho": [
+      {
+        "nome": "José Junior",
+        "ramal": "3245",
+        "email": "seguranca@docemineiro.ind.br",
+        "celular": "(64) 9 9231-4531"
+      },
+      {
+        "nome": "Sinthia Gomes",
+        "ramal": "3266",
+        "email": "seguranca02@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Salas": {
+    "Reunião 01": [
+      {
+        "nome": "Sala de Reunião 01",
+        "ramal": "3310",
+        "email": "",
+        "celular": ""
+      }
+    ],
+    "Treinamento": [
+      {
+        "nome": "Sala de Treinamento",
+        "ramal": "3307",
+        "email": "",
+        "celular": ""
+      }
+    ]
+  },
+  "TI": {
+    "Gerência": [
+      {
+        "nome": "Artur de Moraes",
+        "ramal": "3249",
+        "email": "gerentedeti@docemineiro.ind.br",
+        "celular": "(34) 9 9687-1855"
+      }
+    ],
+    "Infraestrutura": [
+      {
+        "nome": "Cristiano Tandu",
+        "ramal": "3238",
+        "email": "suporteinfra@docemineiro.ind.br",
+        "celular": ""
+      }
+    ],
+    "Sistemas": [
+      {
+        "nome": "Igor Barros",
+        "ramal": "",
+        "email": "suportesistema@docemineiro.ind.br",
+        "celular": ""
+      }
+    ],
+    "Suporte": [
+      {
+        "nome": "Maycon Laldon",
+        "ramal": "3227",
+        "email": "auxiliardeti@docemineiro.ind.br",
+        "celular": ""
+      },
+      {
+        "nome": "Kelvin Aruda",
+        "ramal": "3320",
+        "email": "analistadeti@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "Vigilância Patrimonial": {
+    "Equipe": [
+      {
+        "nome": "Romário / Givanildo",
+        "ramal": "",
+        "email": "",
+        "celular": "(34) 9 9968-4831"
+      }
+    ]
+  },
+  "RF": {
+    "Gerência": [
+      {
+        "nome": "Wender Dantas",
+        "ramal": "",
+        "email": "gerenciaindustrial@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515 / 9 9999-6748"
+      },
+      {
+        "nome": "Hede Rezende",
+        "ramal": "",
+        "email": "gerenciaadministrativa@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515 / 9 9962-2726"
+      }
+    ],
+    "Almoxarifado": [
+      {
+        "nome": "Dhoweber Guissoni",
+        "ramal": "",
+        "email": "supervisordealmoxarifado@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Pedro Capelari",
+        "ramal": "",
+        "email": "almoxarife01@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Keilla Pereira",
+        "ramal": "",
+        "email": "almoxarife02@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Hemilly Chaves",
+        "ramal": "",
+        "email": "apontador@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Financeiro": [
+      {
+        "nome": "Jordana Sousa",
+        "ramal": "",
+        "email": "financeiro@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Fabiana Araújo",
+        "ramal": "",
+        "email": "supervisoradministrativo@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Administrativo": [
+      {
+        "nome": "Liza Cunha",
+        "ramal": "",
+        "email": "auxiliaradministrativo@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Departamento Pessoal": [
+      {
+        "nome": "Carolina Sousa",
+        "ramal": "",
+        "email": "dp@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Michele Vieira",
+        "ramal": "",
+        "email": "auxiliardp@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Atendimento": [
+      {
+        "nome": "Jessica Rodrigues",
+        "ramal": "",
+        "email": "atendimento@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Luana Oliveira",
+        "ramal": "",
+        "email": "atendimento02@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Qualidade": [
+      {
+        "nome": "Maressa Miranda",
+        "ramal": "",
+        "email": "qualidade@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Milene Carvalho",
+        "ramal": "",
+        "email": "qualidade01@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Manutenção": [
+      {
+        "nome": "Aguinaldo Souza",
+        "ramal": "",
+        "email": "supervisordemanutencao@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Wisley Moura",
+        "ramal": "",
+        "email": "lidermanutençãosig@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ],
+    "Produção": [
+      {
+        "nome": "Cleibe Machado",
+        "ramal": "",
+        "email": "producao01@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Gustavo Freitas",
+        "ramal": "",
+        "email": "producao02@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      },
+      {
+        "nome": "Pedro Brito",
+        "ramal": "",
+        "email": "producao03@depaulaalimentos.com.br",
+        "celular": "(34) 3266-1515"
+      }
+    ]
+  },
+  "Honorópolis": {
+    "Gerência - Compra de Leite": [
+      {
+        "nome": "Roger Angelo",
+        "ramal": "",
+        "email": "comprasleite1@docemineiro.ind.br",
+        "celular": "(34) 9 9944-6835"
+      }
+    ],
+    "Laboratório": [
+      {
+        "nome": "Andressa / Vivia",
+        "ramal": "",
+        "email": "laboratoriohonoropolis@docemineiro.ind.br",
+        "celular": ""
+      }
+    ]
+  },
+  "São Francisco": {
+    "Gerência - Compra de Leite": [
+      {
+        "nome": "Arides José",
+        "ramal": "",
+        "email": "comprasleite2@docemineiro.ind.br",
+        "celular": "(34) 9 9692-6415"
+      }
+    ],
+    "Gerência Industrial": [
+      {
+        "nome": "Francisco Gaudêncio",
+        "ramal": "",
+        "email": "comprasleite4@docemineiro.ind.br",
+        "celular": "(34) 9 9964-1771"
+      }
+    ]
+  },
+  "Fazendas": {
+    "Beira Rio Sape": [
+      {
+        "nome": "Rio Sape",
+        "ramal": "",
+        "email": "",
+        "celular": "(34) 9 9669-1366"
+      }
+    ],
+    "Triângulo - Ituiutaba": [
+      {
+        "nome": "Ituiutaba",
+        "ramal": "",
+        "email": "",
+        "celular": "(34) 9 9984-3163"
+      }
+    ]
+  },
+  "Ituiutaba": {
+    "Gerência - Compra de Leite": [
+      {
+        "nome": "Maurílio Franco",
+        "ramal": "",
+        "email": "comprasleite5@docemineiro.ind.br",
+        "celular": "(34) 9 9969-1326"
+      }
+    ]
+  }
+}
